@@ -23,9 +23,9 @@
 ## 📑 Tabla de Contenidos
 - [🙋‍♂️ Sobre Mí](#-sobre-mí--about-me)
 - [🛠️ Habilidades Técnicas & Stack](#️-habilidades-técnicas--tech-stack)
+- [🚀 Proyectos & Enfoque Técnico](#-proyectos--enfoque-técnico)
 - [🎓 Educación & Certificaciones](#-educación--certificaciones)
 - [💼 Experiencia Destacada](#-experiencia-destacada)
-- [📊 Estadísticas de GitHub](#-estadísticas-de-github)
 - [📬 Contacto](#-contacto--get-in-touch)
 
 ---
@@ -47,6 +47,17 @@
 | **Analítica & Big Data** | ![Power BI](https://img.shields.io/badge/Power_BI-DAX_/_Query-F2C94C?style=flat-square&logo=powerbi&logoColor=black) ![Databricks](https://img.shields.io/badge/Databricks-PySpark-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Python](https://img.shields.io/badge/Python-Pandas-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **Desarrollo & Backend** | ![C#](https://img.shields.io/badge/C%23-Backend-239120?style=flat-square&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-Frontend-E34F26?style=flat-square&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/Git-VCS-F05032?style=flat-square&logo=git&logoColor=white) |
 | **Infraestructura & Soporte** | ![Soporte TI](https://img.shields.io/badge/Soporte-Nivel_1_%2F_2-0078D6?style=flat-square&logo=windows&logoColor=white) ![Redes](https://img.shields.io/badge/Redes-LAN_/_DHCP_/_DNS-000000?style=flat-square&logo=cisco&logoColor=white) ![CCTV](https://img.shields.io/badge/CCTV-IP_/_Análogos-008080?style=flat-square) |
+
+---
+
+## 🚀 Proyectos & Enfoque Técnico
+
+| Especialidad | Descripción & Soluciones Tecnológicas |
+| :--- | :--- |
+| 🗄️ **SQL & Data Cleaning** | Análisis, depuración e identificación de inconsistencias en datos transaccionales mediante consultas complejas, joins, agregaciones y subconsultas en SQL Server / MySQL[cite: 1]. |
+| 📊 **Power BI & Dashboards** | Construcción de tableros interactivos con modelo estrella (Star Schema), cálculo de KPIs estratégicos mediante DAX e integración de fuentes con Power Query[cite: 1]. |
+| ⚡ **Databricks & Big Data** | Procesamiento y análisis de datos a gran escala utilizando PySpark y entornos colaborativos en la nube (Databricks)[cite: 1]. |
+| 🖥️ **Soporte & Infraestructura** | Mantenimiento preventivo/correctivo, diagnóstico a nivel de componente, configuración de redes LAN/DHCP/DNS e instalación de videovigilancia CCTV[cite: 1]. |
 
 ---
 
@@ -83,16 +94,6 @@
 
 - Desarrollo de lógica backend con C# y diseño/optimización de datos relacionales mediante SQL Server y procedimientos almacenados[cite: 1].
 </details>
-
----
-
-## 📊 Estadísticas de GitHub / GitHub Stats
-
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pablolopera04&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 ---
 
